@@ -1,0 +1,5 @@
+openai
+langgraph
+sec-edgar-downloader
+pandas
+pygraphviz
